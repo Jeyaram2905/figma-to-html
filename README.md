@@ -31,8 +31,8 @@ Reference: [LeadCRM.io](https://www.leadcrm.io/)
 ## 🛠️ Tech Stack
 
 - **HTML5**
-- **CSS3 / SCSS**
-- **Bootstrap 5** (optional)
+- **CSS3**
+- **Bootstrap 5**
 - **Media Queries**
 - **Flexbox & CSS Grid**
 
@@ -42,4 +42,4 @@ Reference: [LeadCRM.io](https://www.leadcrm.io/)
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/figma-to-html.git
+   git clone https://github.com/Jeyaram2905/figma-to-html.git
